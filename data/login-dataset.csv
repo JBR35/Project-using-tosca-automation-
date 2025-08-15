@@ -1,0 +1,3 @@
+baseUrl,username,password,expectedGreeting
+https://test.example.com,qa_user_1,P@ssw0rd!,Welcome
+https://test.example.com,qa_admin,Adm1nP@ss!,Welcome Admin

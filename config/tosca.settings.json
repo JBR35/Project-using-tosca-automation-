@@ -1,0 +1,20 @@
+{
+  "WorkspacePath": "C:\\Tosca\\Workspaces\\MyProject\\MyProject.tws",
+  "UserName": "YOUR_AD_ID_OR_LOCAL_USER",
+  "Password": "YOUR_PASSWORD",
+  "ExecutionListPath": "\\Execution\\Smoke\\Login_Smoke", 
+  "ProjectRoot": ".",
+  "ResultsDir": ".\\results\\ci",
+  "ToscaCIPath": "C:\\Program Files (x86)\\TRICENTIS\\Tosca Testsuite\\ToscaCommander\\ToscaCI.exe",
+
+  "UseDEX": false,
+  "DEXServer": "http://localhost:8732",
+  "DEXAgent": "",
+  "RunOnAgent": false,
+
+  "Variables": {
+    "env": "QA",
+    "buildNumber": "local",
+    "baseUrl": "https://test.example.com"
+  }
+}

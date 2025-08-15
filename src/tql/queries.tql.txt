@@ -1,0 +1,2 @@
+-- Find all failed TestCases in last execution
+=>SUBPARTS:TestCase[LastExecutionResult==Failed]
